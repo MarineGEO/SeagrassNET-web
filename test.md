@@ -1,1 +1,1 @@
-![Image]("https://marinegeo.github.io/seagrassnet-web/assets/images/test_image.jpg")
+![Image](https://marinegeo.github.io/seagrassnet-web/assets/images/test_image.jpg)
