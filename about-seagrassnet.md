@@ -1,5 +1,10 @@
-## About SeagrassNET
-#SeagrassNet: Assessing a Critical Coastal Resource Worldwide
+---
+layout: page
+title: About SeagrassNet
+permalink: /about-seagrassnet/
+---
+
+# SeagrassNet: Assessing a Critical Coastal Resource Worldwide
 
     SeagrassNet is an expanding, global ecological monitoring program that investigates and documents the status of seagrass resources and the threats to this important and imperilled marine ecosystem. The program started in 2001 in the Western Pacific and now includes 122 sites in 33 countries with a global monitoring protocol and web-based data reporting system. Our ultimate aim is to preserve the valuable seagrass ecosystem by increasing scientific knowledge and public awareness of this threatened coastal resource.
     SeagrassNet teams composed of scientists and managers from participating countries conduct synchronous quarterly sampling of selected plant and environmental parameters to determine seagrass habitat status and trends. A lack of information exists on the status and health of seagrasses worldwide, particularly in less economically developed regions. SeagrassNet's efforts to monitor known seagrass areas and to reconnoiter uncharted seagrasses are important first steps in understanding and sustaining the seagrass resource. From Brazil to the U.S. to east Africa and many Western Pacific island nations, SeagrassNet is collecting information with the goal of elevating awareness of seagrasses and providing a "global report card" on the health of seagrass coastal habitat.
@@ -8,7 +13,7 @@
     
 Project Director: Dr. Frederick T. Short, University of New Hampshire, Jackson Estuarine Laboratory, 85 Adams Point Road, Durham, NH 03824 USA, <fred.short@unh.edu>, 603-862-5134. Co-Principal Investigators: Drs. Rob Coles (Australia), Miguel Fortes (Philippines), and Evamaria Koch (USA).  
     
-#SeagrassNet
+# SeagrassNet
 
 SeagrassNet results are now displayed instantaneously on the worldwide web to provide an overview of our findings. In the Western Pacific, we find seagrasses are relatively healthy in many locations, except where direct human impact occurs or where ocean warming stresses the plants. Across the Americas, we see a general decline in seagrass health, particularly near centers of population, while in Viet Nam, seagrass declines are related to rapidly increasing tourism. In Papua New Guinea (left) and Indonesia, seagrass beds are closely linked to coral reef species, and are a nursery for many reef fish. Here, clown fish live in a sea anemone located in a seagrass bed.
 
