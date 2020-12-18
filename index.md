@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 ##We are the Global Seagrass Monitoring Network
