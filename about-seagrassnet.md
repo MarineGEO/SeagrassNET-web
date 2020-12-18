@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About SeagrassNet
-permalink: /about-seagrassnet/
 ---
 
 # SeagrassNet: Assessing a Critical Coastal Resource Worldwide

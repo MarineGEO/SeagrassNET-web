@@ -22,10 +22,6 @@ title: SeagrassNet
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   SeagrassNet is an expanding, worldwide ecological monitoring program that investigates and documents the status of seagrass resources and the threats to this important and imperilled marine ecosystem.
-baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
 
 # Build settings
 theme: minima
