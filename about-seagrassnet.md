@@ -24,7 +24,10 @@ Project publications:
 
 Global Seagrass Research Methods F.T. Short and R.G. Coles (eds.) 2001 Elsevier World Atlas of Seagrasses E.P. Green and F.T. Short (eds.) 2003 Univ. of California Press.  
 
-Download the SeagrassNet Manual (PDF) here
+Download the SeagrassNet Manual [here] ({{https://marinegeo.github.io/seagrassnet-web/about-seagrassnet/about-seagassnet-media}})
+
+
+
 
 
 
