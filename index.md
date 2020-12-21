@@ -10,3 +10,5 @@ SeagrassNet is an expanding, worldwide ecological monitoring program that invest
 
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/index/pic8.jpg)
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/index/pic22_0.jpg)
+![image](https://marinegeo.github.io/seagrassnet-web/assets/index/logo.jpg)
+
