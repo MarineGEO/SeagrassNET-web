@@ -1,6 +1,7 @@
 ---
 layout: default
 ---	
+![image](https://marinegeo.github.io/seagrassnet-web/assets/index/Home Page Photo.jpg)
 
 # We are the Global Seagrass Monitoring Network
 
