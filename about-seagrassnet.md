@@ -3,6 +3,7 @@ layout: page
 title: About SeagrassNet
 ---
 
+![image](https://marinegeo.github.io/seagrassnet-web/assets/index/Home Page Photo.jpg)
 # SeagrassNet: Assessing a Critical Coastal Resource Worldwide
 
     SeagrassNet is an expanding, global ecological monitoring program that investigates and documents the status of seagrass resources and the threats to this important and imperilled marine ecosystem. The program started in 2001 in the Western Pacific and now includes 122 sites in 33 countries with a global monitoring protocol and web-based data reporting system. Our ultimate aim is to preserve the valuable seagrass ecosystem by increasing scientific knowledge and public awareness of this threatened coastal resource.
