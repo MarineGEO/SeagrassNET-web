@@ -6,50 +6,34 @@ permalink: /global-monitoring/
 
 # SeagrassNet = Seagrass Monitoring Network 
 # SeagrassNet Monitoring Manuals
-[Worldwide Edition in English (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Worldwide Manual 2015.pdf)
-
+[Worldwide Edition in English (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Worldwide Manual 2015.pdf)  
 [Worldwide Edition in Spanish (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/about/Spanish_SeagrassNet_Manual_2006_Worldwide.pdf)
 
 # Regional Supplements to the Monitoring Manuals
-[Tropical Indo-Pacific Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/West_Indian_Ocean_SeagrassNet_Supplements.pdf)
-
-[Tropical Atlantic Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/Tropical_Atlantic_Supplement.pdf)
-
-[Temperate North Pacific Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/Temperate_Pacific_Supplement.pdf)
-
+[Tropical Indo-Pacific Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/West_Indian_Ocean_SeagrassNet_Supplements.pdf)  
+[Tropical Atlantic Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/Tropical_Atlantic_Supplement.pdf)  
+[Temperate North Pacific Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/Temperate_Pacific_Supplement.pdf)  
 [Temperate North Atlantic Supplement (*.pdf)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/North Atlantic Supplement.pdf )
 
 # SeagrassNet Manual Updates
-[How to Lay Out a Site (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet-how to lay out a site.pdf)
-
-[Hobo Pendent Instructions (*pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/Hobo_Pendant Instructions 2010 SOP.pdf)
-
-[Submitting Photos (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet-Submitting_Photo_SOP.pdf)
-
+[How to Lay Out a Site (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet-how to lay out a site.pdf)  
+[Hobo Pendent Instructions (*pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/Hobo_Pendant Instructions 2010 SOP.pdf)  
+[Submitting Photos (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet-Submitting_Photo_SOP.pdf)  
 [Permanent Site Markers (*.pdf  format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet Permanent Site Markers.pdf)
 
 # Regional Brochure
-[Tropical Atlantic Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/Tropical Atlantic Seagrass Brochure.pdf)
-
-[Indo-Pacific Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/Seagrass_IndoPaci_Brochure.pdf)
-
-[North Pacific Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/North Pacific Seagrass Brochure2.pdf)
-
-[North Atlantic Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/North Atlantic Seagrass Brochure.pdf)
-
+[Tropical Atlantic Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/Tropical Atlantic Seagrass Brochure.pdf)  
+[Indo-Pacific Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/Seagrass_IndoPaci_Brochure.pdf)  
+[North Pacific Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/North Pacific Seagrass Brochure2.pdf)  
+[North Atlantic Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/North Atlantic Seagrass Brochure.pdf)  
 [Belize Brochure 2007](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/Belize_Flyer_07.pdf)
 
 # Sampling Protocol 
 
   Field Data Sheet (*.pdf)
-* [Region 1 - Temperate North Atlantic](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/NA_SamplingForm2.pdf)
-
-* [Region 2 - Tropical Atlantic](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/tropical_atlantic_sampling.pdf)
-
-* [Regional 3 - Mediterranean](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/MediterraneanSamplingForm06.pdf)
-
-* [Region 4 - Temperate North Pacific](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/NP_SamplingForm2.pdf)
-
-* [Regional 5 - Tropical Indo-Pacific](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/WpSamplingForm10.pdf)
-
+* [Region 1 - Temperate North Atlantic](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/NA_SamplingForm2.pdf)  
+* [Region 2 - Tropical Atlantic](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/tropical_atlantic_sampling.pdf)  
+* [Regional 3 - Mediterranean](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/MediterraneanSamplingForm06.pdf)  
+* [Region 4 - Temperate North Pacific](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/NP_SamplingForm2.pdf)  
+* [Regional 5 - Tropical Indo-Pacific](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/WpSamplingForm10.pdf)  
 * Region 6 - Temperate Southern Oceans (Coming Soon...)
