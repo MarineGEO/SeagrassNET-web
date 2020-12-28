@@ -26,4 +26,7 @@ permalink: /global-monitoring/
 
 [Submitting Photos (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet-Submitting_Photo_SOP.pdf)
 
-[Permanent Site Markers (*.pdf  format)]https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet Permanent Site Markers.pdf)
+[Permanent Site Markers (*.pdf  format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet Permanent Site Markers.pdf)
+
+# Regional Brochure
+[Tropical Atlantic Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/Tropical Atlantic Seagrass Brochure.pdf)
