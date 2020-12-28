@@ -30,3 +30,11 @@ permalink: /global-monitoring/
 
 # Regional Brochure
 [Tropical Atlantic Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/Tropical Atlantic Seagrass Brochure.pdf)
+
+[Indo-Pacific Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/Seagrass_IndoPaci_Brochure.pdf)
+
+[North Pacific Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/North Pacific Seagrass Brochure2.pdf)
+
+[North Atlantic Seagrass Brochure](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/North Atlantic Seagrass Brochure.pdf)
+
+[Belize Brochure 2007](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/brochures/Belize_Flyer_07.pdf)
