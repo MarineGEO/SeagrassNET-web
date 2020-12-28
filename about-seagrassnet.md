@@ -2,7 +2,7 @@
 layout: page
 title: About SeagrassNet
 ---
-![image](https://marinegeo.github.io/seagrassnet-web/assets/about/individual report data)
+![image](https://marinegeo.github.io/seagrassnet-web/assets/about/main.photo.jpg)
 
 # SeagrassNet: Assessing a Critical Coastal Resource Worldwide
 
