@@ -7,10 +7,9 @@ title: About SeagrassNet
 # SeagrassNet: Assessing a Critical Coastal Resource Worldwide
 
    SeagrassNet is an expanding, global ecological monitoring program that investigates and documents the status of seagrass resources and the threats to this important and imperilled marine ecosystem. The program started in 2001 in the Western Pacific and now includes 122 sites in 33 countries with a global monitoring protocol and web-based data reporting system. Our ultimate aim is to preserve the valuable seagrass ecosystem by increasing scientific knowledge and public awareness of this threatened coastal resource.
-   
-SeagrassNet monitoring on the reef flat in Manada, North Sulawesi, Indonesia
 
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_2.jpg){: height="168.9px" width="220.5px" style="float:right; padding-left:10px" }
+SeagrassNet monitoring on the reef flat in Manada, North Sulawesi, Indonesia
    
 SeagrassNet teams composed of scientists and managers from participating countries conduct synchronous quarterly sampling of selected plant and environmental parameters to determine seagrass habitat status and trends. A lack of information exists on the status and health of seagrasses worldwide, particularly in less economically developed regions. SeagrassNet's efforts to monitor known seagrass areas and to reconnoiter uncharted seagrasses are important first steps in understanding and sustaining the seagrass resource. From Brazil to the U.S. to east Africa and many Western Pacific island nations, SeagrassNet is collecting information with the goal of elevating awareness of seagrasses and providing a "global report card" on the health of seagrass coastal habitat.
 
@@ -33,8 +32,6 @@ SeagrassNet Team Leaders are trained at workshops (right) where they learn sampl
 Humans, through commercial and subsistence fishing, and endangered fauna worldwide, depend on seagrasses for a living. Future SeagrassNet activities include expansion to new areas, among them the Indian Ocean and the Mediterranean, education of coastal managers, and synthesis of our findings in upcoming publications. 
 
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_5.jpg)
-![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_6.jpg)
-![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_7.jpg)
 
 Project publications:  
 Global Seagrass Research Methods F.T. Short and R.G. Coles (eds.) 2001 Elsevier World Atlas of Seagrasses E.P. Green and F.T. Short (eds.) 2003 Univ. of California Press.  
