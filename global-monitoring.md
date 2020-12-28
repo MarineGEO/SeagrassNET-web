@@ -20,4 +20,4 @@ permalink: /global-monitoring/
 [Temperate North Atlantic Supplement (*.pdf)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/North Atlantic Supplement.pdf )
 
 # SeagrassNet Manual Updates
-[How to Lay Out a Site (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring//SeagrassNet-how to lay out a site.pdf)
+[How to Lay Out a Site (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet-how to lay out a site.pdf)
