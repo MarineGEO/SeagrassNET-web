@@ -13,8 +13,8 @@ permalink: /global-monitoring/
 # Regional Supplements to the Monitoring Manuals
 [Tropical Indo-Pacific Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/global-monitoring/assets/global-monitoring/West_Indian_Ocean_SeagrassNet_Supplements.pdf)
 
-[Tropical Atlantic Supplement (*.pdf format)]((https://marinegeo.github.io/seagrassnet-web/global-monitoring/assets/global-monitoring/Tropical_Atlantic_Supplement.pdf)
+[Tropical Atlantic Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/global-monitoring/assets/global-monitoring/Tropical_Atlantic_Supplement.pdf)
 
-[Temperate North Pacific Supplement (*.pdf format)]((https://marinegeo.github.io/seagrassnet-web/global-monitoring/assets/global-monitoring/Temperate_Pacific_Supplement.pdf)
+[Temperate North Pacific Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/global-monitoring/assets/global-monitoring/Temperate_Pacific_Supplement.pdf)
 
-[Temperate North Atlantic Supplement (*.pdf)]((https://marinegeo.github.io/seagrassnet-web/global-monitoring/assets/global-monitoring/North Atlantic Supplement.pdf )
+[Temperate North Atlantic Supplement (*.pdf)](https://marinegeo.github.io/seagrassnet-web/global-monitoring/assets/global-monitoring/North Atlantic Supplement.pdf )
