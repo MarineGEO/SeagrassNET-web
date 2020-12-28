@@ -14,7 +14,7 @@ SeagrassNet teams composed of scientists and managers from participating countri
 
 Funding for various aspects of SeagrassNet provided by The David and Lucile Packard Foundation, the Oak Foundation, the New Hampshire Charitable Foundation and Tom Haas, and the University of New Hampshire.  
 
-![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_2.jpg)
+![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_2.jpg) align=right
 
 Project Director: Dr. Frederick T. Short, University of New Hampshire, Jackson Estuarine Laboratory, 85 Adams Point Road, Durham, NH 03824 USA, <fred.short@unh.edu>, 603-862-5134. Co-Principal Investigators: Drs. Rob Coles (Australia), Miguel Fortes (Philippines), and Evamaria Koch (USA).  
     
