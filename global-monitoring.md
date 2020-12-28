@@ -21,4 +21,9 @@ permalink: /global-monitoring/
 
 # SeagrassNet Manual Updates
 [How to Lay Out a Site (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet-how to lay out a site.pdf)
+
 [Hobo Pendent Instructions (*pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/Hobo_Pendant Instructions 2010 SOP.pdf)
+
+[Submitting Photos (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet-Submitting_Photo_SOP.pdf)
+
+[Permanent Site Markers (*.pdf  format)]https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/updates/SeagrassNet Permanent Site Markers.pdf)
