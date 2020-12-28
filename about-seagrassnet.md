@@ -23,7 +23,7 @@ Project Director: Dr. Frederick T. Short, University of New Hampshire, Jackson E
 
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_3.jpg =100x20){:height="50%" width="50%"}
 
-<img src="https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_3.jpg" width="50% height="50%>
+<img src="https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_3.jpg" width="50%"" height="50%">
 
 
 SeagrassNet results are now displayed instantaneously on the worldwide web to provide an overview of our findings. In the Western Pacific, we find seagrasses are relatively healthy in many locations, except where direct human impact occurs or where ocean warming stresses the plants. Across the Americas, we see a general decline in seagrass health, particularly near centers of population, while in Viet Nam, seagrass declines are related to rapidly increasing tourism. In Papua New Guinea (above) and Indonesia, seagrass beds are closely linked to coral reef species, and are a nursery for many reef fish. Here, clown fish live in a sea anemone located in a seagrass bed.
