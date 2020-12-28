@@ -41,7 +41,7 @@ permalink: /global-monitoring/
 
 # Sampling Protocol 
 
-  # Field Data Sheet (*.pdf)
+  Field Data Sheet (*.pdf)
 * [Region 1 - Temperate North Atlantic](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/NA_SamplingForm2.pdf)
 
 * [Region 2 - Tropical Atlantic](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/tropical_atlantic_sampling.pdf)
