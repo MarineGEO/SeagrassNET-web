@@ -8,7 +8,7 @@ permalink: /global-monitoring/
 # SeagrassNet Monitoring Manuals
 [Worldwide Edition in English (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Worldwide Manual 2015.pdf)
 
-[Worldwide Edition in Spanish (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/about/Spanish_SeagrassNet_Manual_2006_WorldWide.pdf)
+[Worldwide Edition in Spanish (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/about/Spanish_SeagrassNet_Manual_2006_Worldwide.pdf)
 
 # Regional Supplements to the Monitoring Manuals
 [Tropical Indo-Pacific Supplement (*.pdf format)](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/West_Indian_Ocean_SeagrassNet_Supplements.pdf)
