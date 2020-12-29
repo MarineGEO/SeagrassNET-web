@@ -5,6 +5,7 @@ permalink: /global-monitoring/
 ---
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/main.photo.png)
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/Eelgrass-Bed-.gif){: height="184.2px" width="180px" style="float:right; padding-left:10px" }
+###### *Eelgrass in New Hampshire U.S.A.*{: style="float:right; padding-left:10px" }
 
 # SeagrassNet = Seagrass Monitoring Network 
 # SeagrassNet Monitoring Manuals
