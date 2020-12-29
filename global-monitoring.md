@@ -3,6 +3,7 @@ layout: page
 title: Global Monitoring
 permalink: /global-monitoring/
 ---
+![image](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/main.photo.png)
 
 # SeagrassNet = Seagrass Monitoring Network 
 # SeagrassNet Monitoring Manuals
