@@ -10,9 +10,9 @@ permalink: /research/
 
 # Seagrass Sepcies By Bioregion  
 Temperate North Atlantic Species  
-*Bioregion 1
-  **Zostera marina*
-  **Ruppia maritima*
-  **Halodule wrightii* (Southern USA only)
-  **Cymodocea nodosa* (Europe only)
-  **Zostera noltii* (Europe only)
+* Bioregion 1
+  * *Zostera marina*
+  * *Ruppia maritima*
+  * *Halodule wrightii* (Southern USA only)
+  * *Cymodocea nodosa* (Europe only)
+  * *Zostera noltii* (Europe only)
