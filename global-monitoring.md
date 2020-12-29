@@ -40,3 +40,10 @@ permalink: /global-monitoring/
 * [Region 4 - Temperate North Pacific](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/NP_SamplingForm2.pdf)  
 * [Region 5 - Tropical Indo-Pacific](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/WpSamplingForm10.pdf)  
 * Region 6 - Temperate Southern Oceans (Coming Soon...)
+
+Biomass data sheet
+[For All Bioregions](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/BiomassForm2.pdf)
+
+# Submit Your Data
+[Instructions for data entry](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/submit/SeagrassNet Data Entry Instructions.pdf)  
+[Instructions for Saving a data file](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/submit/Instructions for saving data files.pdf)  
