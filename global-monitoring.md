@@ -4,7 +4,7 @@ title: Global Monitoring
 permalink: /global-monitoring/
 ---
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/main.photo.png)
-![image](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/Eelgrass-Bed-.gif){: height="230.25px" width="225px" style="float:right; padding-left:10px" }
+![image](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/Eelgrass-Bed-.gif){: height="153.5px" width="150px" style="float:right; padding-left:10px" }
 
 # SeagrassNet = Seagrass Monitoring Network 
 # SeagrassNet Monitoring Manuals
