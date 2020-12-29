@@ -4,4 +4,4 @@ title: Participants
 permalink: /participants/
 ---
 
-This is the participants page :) 
+Particpiants Page Coming Soon!
