@@ -36,5 +36,21 @@ permalink: /research/
 * *Ruppia maritima*
 * *Ruppia cirrhosa*
 * *Halodule wrightii* 
-
+4. Temperate North Pacific Species
+* *Zostera marina*
+* *Ruppia maritima*
+* *Zostera japonica*
+* *Zostera asiatica*
+* *Phyllospadix serrulatus (USA)*
+* *Phyllospadix scouleri (USA)*
+* *Phyllospadix torreyi (USA)*
+* *Phyllospadix iwatensis (Asia)*
+* *Phyllospadix japonicus (Asia)*
+* *Zostera caespitosa (Asia)*
+* *Zostera caulescens (Asia)*
+* *Halodule wrightii (Mexico)*
+* *Halophila decipiens (Mexico)*
+* *Halophila ovalis (Japan)*
+* *Halophila euphlebia (Japan)*
+* *Halophila nipponica (Japan & South Korea)* 
 
