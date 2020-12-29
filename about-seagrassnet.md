@@ -9,11 +9,11 @@ title: About SeagrassNet
    SeagrassNet is an expanding, global ecological monitoring program that investigates and documents the status of seagrass resources and the threats to this important and imperilled marine ecosystem. The program started in 2001 in the Western Pacific and now includes 122 sites in 33 countries with a global monitoring protocol and web-based data reporting system. Our ultimate aim is to preserve the valuable seagrass ecosystem by increasing scientific knowledge and public awareness of this threatened coastal resource.
 
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_2.jpg){: height="168.9px" width="220.5px" style="float:right; padding-left:10px" }
+pre {: style="float:right; padding-left:10px"
+    white-space: pre-wrap; *SeagrassNet monitoring on the reef flatin Manada, North Sulawesi, Indonesia* 
    
 SeagrassNet teams composed of scientists and managers from participating countries conduct synchronous quarterly sampling of selected plant and environmental parameters to determine seagrass habitat status and trends. A lack of information exists on the status and health of seagrasses worldwide, particularly in less economically developed regions. SeagrassNet's efforts to monitor known seagrass areas and to reconnoiter uncharted seagrasses are important first steps in understanding and sustaining the seagrass resource.
-###### *SeagrassNet monitoring on the reef flat*{: style="float:right; padding-left:10px" }
 From Brazil to the U.S. to east Africa and many Western Pacific island nations,
-###### *in Manada, North Sulawesi, Indonesia*{: style="float:right; padding-left:10px" }
 SeagrassNet is collecting information with the goal of elevating awareness of seagrasses and providing a "global report card" on the health of seagrass coastal habitat.
 
    Seagrasses are underwater flowering plants that often occur in vast meadows and provide nurseries, shelter, and food for a variety of commercially, recreationally, and ecologically important species (e.g., fish, sea turtles, dugong, manatee, seahorses, crustaceans). Additionally, seagrasses filter estuarine and coastal waters of nutrients, contaminants, and sediments and are closely linked to other community types: in the tropics to coral reefs and mangrove forests, and in temperate waters to salt marshes, kelp forests, and oyster reefs. Existing at the interface of the land margin and the world's oceans, seagrasses are threatened by numerous anthropogenic impacts as well as global climate change.
