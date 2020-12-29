@@ -9,14 +9,14 @@ permalink: /research/
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/research/bioregions-map.png)
 
 # Seagrass Sepcies By Bioregion  
-_1. Temperate North Atlantic Species_
+**1. Temperate North Atlantic Species**
 * *Zostera marina*
 * *Ruppia maritima*
 * *Halodule wrightii* (Southern USA only)
 * *Cymodocea nodosa* (Europe only)
 * *Zostera noltii* (Europe only)  
 
-_2. Tropical Atlantic Species_
+**2. Tropical Atlantic Species**
 * *Thalassia testudinum*
 * *Syrigodium filiforme*
 * *Halodule wrightii*
@@ -28,7 +28,7 @@ _2. Tropical Atlantic Species_
 * *Halophila stipulacea* (Caribbean)
 * *Halodule bermudensis* (Bermuda)  
 
-_3. Mediterranean Species_
+**3. Mediterranean Species**
 * *Posidonia oceanica* 
 * *Cymodocea nodosa*
 * *Zostera marina*
@@ -39,7 +39,7 @@ _3. Mediterranean Species_
 * *Ruppia cirrhosa*
 * *Halodule wrightii* 
 
-_4. Temperate North Pacific Species_
+**4. Temperate North Pacific Species**
 * *Zostera marina*
 * *Ruppia maritima*
 * *Zostera japonica*
@@ -57,7 +57,7 @@ _4. Temperate North Pacific Species_
 * *Halophila euphlebia (Japan)*
 * *Halophila nipponica (Japan & South Korea)*  
 
-_5. Tropical Indo-Pacific Species_
+**5. Tropical Indo-Pacific Species**
 * *Thalassia hemprichii*
 * *Syringodium isoetifolium*
 * *Thalassodendron ciliatum*
@@ -84,7 +84,7 @@ _5. Tropical Indo-Pacific Species_
 * *Zostera muelleri* (*Z. capricorni*)
 * *Zostera japonica* 
 
-_6. Temperate Southern Oceans Species_
+**6. Temperate Southern Oceans Species**
 * *Amphibolis antarctica*
 * *Amphibolis griffithii*
 * *Halophila australis*
