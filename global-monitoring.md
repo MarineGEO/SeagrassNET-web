@@ -5,13 +5,13 @@ permalink: /global-monitoring/
 ---
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/main.photo.png)
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/Eelgrass-Bed-.gif){: height="153.5px" width="150px" style="float:right; padding-left:10px" }
-###### *Eelgrass in New Hampshire U.S.A.*{: style="float:right; padding-left:10px" }
 
 # SeagrassNet = Seagrass Monitoring Network 
 # SeagrassNet Monitoring Manuals
 
 [Worldwide Edition in English](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Worldwide Manual 2015.pdf)  
 [Worldwide Edition in Spanish](https://marinegeo.github.io/seagrassnet-web/assets/about/Spanish_SeagrassNet_Manual_2006_Worldwide.pdf)
+###### *Eelgrass in New Hampshire U.S.A.*{: style="float:right; padding-left:10px" }  
 # Regional Supplements to the Monitoring Manuals
 [Tropical Indo-Pacific Supplement](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/West_Indian_Ocean_SeagrassNet_Supplements.pdf)  
 [Tropical Atlantic Supplement](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/Tropical_Atlantic_Supplement.pdf)  
