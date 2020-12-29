@@ -42,7 +42,7 @@ permalink: /global-monitoring/
 * Region 6 - Temperate Southern Oceans (Coming Soon...)
 
 Biomass data sheet  
-[For All Bioregions](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/BiomassForm2.pdf)
+[For all bioregions](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/field/BiomassForm2.pdf)
 
 # Submit Your Data
 [Instructions for data entry](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/submit/SeagrassNet Data Entry Instructions.pdf)  
