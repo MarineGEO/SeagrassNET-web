@@ -4,4 +4,6 @@ title: Research
 permalink: /research/
 ---	
 
-![image](https://marinegeo.github.io/seagrassnet-web/assets/research/test_image.jpg)
+# Global Seagrass Bioregions
+
+![image](https://marinegeo.github.io/seagrassnet-web/assets/research/bioregions-map.png)
