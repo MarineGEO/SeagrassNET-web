@@ -8,7 +8,7 @@ title: About SeagrassNet
 
    SeagrassNet is an expanding, global ecological monitoring program that investigates and documents the status of seagrass resources and the threats to this important and imperilled marine ecosystem. The program started in 2001 in the Western Pacific and now includes 122 sites in 33 countries with a global monitoring protocol and web-based data reporting system. Our ultimate aim is to preserve the valuable seagrass ecosystem by increasing scientific knowledge and public awareness of this threatened coastal resource.
 
-![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_2.jpg){: height="168.9px" width="220.5px" style="float:right; padding-left:10px" } word-wrap: *SeagrassNet monitoring on the reef flatin Manada, North Sulawesi, Indonesia* 
+![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_2.jpg){: height="168.9px" width="220.5px" style="float:right; padding-left:10px" } *SeagrassNet monitoring on the reef flatin Manada, North Sulawesi, Indonesia* 
    
 SeagrassNet teams composed of scientists and managers from participating countries conduct synchronous quarterly sampling of selected plant and environmental parameters to determine seagrass habitat status and trends. A lack of information exists on the status and health of seagrasses worldwide, particularly in less economically developed regions. SeagrassNet's efforts to monitor known seagrass areas and to reconnoiter uncharted seagrasses are important first steps in understanding and sustaining the seagrass resource.
 From Brazil to the U.S. to east Africa and many Western Pacific island nations,
