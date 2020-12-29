@@ -12,8 +12,9 @@ title: About SeagrassNet
    
 SeagrassNet teams composed of scientists and managers from participating countries conduct synchronous quarterly sampling of selected plant and environmental parameters to determine seagrass habitat status and trends. A lack of information exists on the status and health of seagrasses worldwide, particularly in less economically developed regions. SeagrassNet's efforts to monitor known seagrass areas and to reconnoiter uncharted seagrasses are important first steps in understanding and sustaining the seagrass resource.
 ###### *SeagrassNet monitoring on the reef flat*{: style="float:right; padding-left:10px" }
+From Brazil to the U.S. to east Africa and many Western Pacific island nations,
 ###### *in Manada, North Sulawesi, Indonesia*{: style="float:right; padding-left:10px" }
-From Brazil to the U.S. to east Africa and many Western Pacific island nations, SeagrassNet is collecting information with the goal of elevating awareness of seagrasses and providing a "global report card" on the health of seagrass coastal habitat.
+SeagrassNet is collecting information with the goal of elevating awareness of seagrasses and providing a "global report card" on the health of seagrass coastal habitat.
 
    Seagrasses are underwater flowering plants that often occur in vast meadows and provide nurseries, shelter, and food for a variety of commercially, recreationally, and ecologically important species (e.g., fish, sea turtles, dugong, manatee, seahorses, crustaceans). Additionally, seagrasses filter estuarine and coastal waters of nutrients, contaminants, and sediments and are closely linked to other community types: in the tropics to coral reefs and mangrove forests, and in temperate waters to salt marshes, kelp forests, and oyster reefs. Existing at the interface of the land margin and the world's oceans, seagrasses are threatened by numerous anthropogenic impacts as well as global climate change.
 
