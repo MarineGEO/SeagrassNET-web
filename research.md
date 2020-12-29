@@ -7,6 +7,7 @@ permalink: /research/
 # Global Seagrass Bioregions
 
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/research/bioregions-map.png)
+###### *Eelgrass in New Hampshire U.S.A.*{: style="float:right; padding-left:10px" }
 
 # Seagrass Sepcies By Bioregion  
 **1. Temperate North Atlantic Species**
