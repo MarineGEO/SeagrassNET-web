@@ -15,6 +15,7 @@ _1. Temperate North Atlantic Species_
 * *Halodule wrightii* (Southern USA only)
 * *Cymodocea nodosa* (Europe only)
 * *Zostera noltii* (Europe only)  
+
 _2. Tropical Atlantic Species_
 * *Thalassia testudinum*
 * *Syrigodium filiforme*
@@ -26,6 +27,7 @@ _2. Tropical Atlantic Species_
 * *Halophila johnsonii* (Florida)
 * *Halophila stipulacea* (Caribbean)
 * *Halodule bermudensis* (Bermuda)  
+
 _3. Mediterranean Species_
 * *Posidonia oceanica* 
 * *Cymodocea nodosa*
@@ -36,6 +38,7 @@ _3. Mediterranean Species_
 * *Ruppia maritima*
 * *Ruppia cirrhosa*
 * *Halodule wrightii* 
+
 _4. Temperate North Pacific Species_
 * *Zostera marina*
 * *Ruppia maritima*
@@ -53,6 +56,7 @@ _4. Temperate North Pacific Species_
 * *Halophila ovalis (Japan)*
 * *Halophila euphlebia (Japan)*
 * *Halophila nipponica (Japan & South Korea)*  
+
 _5. Tropical Indo-Pacific Species_
 * *Thalassia hemprichii*
 * *Syringodium isoetifolium*
@@ -78,7 +82,8 @@ _5. Tropical Indo-Pacific Species_
 * *Ruppia maritima*
 * *Zostera capensis*
 * *Zostera muelleri* (*Z. capricorni*)
-* *Zostera japonica*  
+* *Zostera japonica* 
+
 _6. Temperate Southern Oceans Species_
 * *Amphibolis antarctica*
 * *Amphibolis griffithii*
