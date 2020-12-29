@@ -25,4 +25,16 @@ permalink: /research/
 * *Halophila decipiens*
 * *Halophila johnsonii* (Florida)
 * *Halophila stipulacea* (Caribbean)
-* *Halodule bermudensis* (Bermuda)
+* *Halodule bermudensis* (Bermuda)  
+3. Mediterranean Species
+* *Posidonia oceanica* 
+* *Cymodocea nodosa*
+* *Zostera marina*
+* *Zostera noltii*
+* *Halophila stipulacea*
+* *Halophila decipiens*
+* *Ruppia maritima*
+* *Ruppia cirrhosa*
+* *Halodule wrightii* 
+
+
