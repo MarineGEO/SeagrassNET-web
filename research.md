@@ -78,7 +78,33 @@ permalink: /research/
 * *Ruppia maritima*
 * *Zostera capensis*
 * *Zostera muelleri* (*Z. capricorni*)
-* *Zostera japonica*
+* *Zostera japonica*  
+6. Temperate Southern Oceans Species
+* *Amphibolis antarctica*
+* *Amphibolis griffithii*
+* *Halophila australis*
+* *Halophila decipiens*
+* *Halophila ovalis*
+* *Lepilaena marina*
+* *Lepilaena cylindrocarpa*
+* *Posidonia angustifolia*
+* *Posidonia australis*
+* *Posidonia sinuosa*
+* *Posidonia ostenfeldii* complex
+* *P. coriacea*, *P. denhartogii*
+* *P. kirkmanii*, *P. robertsoniae*
+* *Ruppia maritima*
+* *Ruppia megacarpa*
+* *Ruppia tuberosa*
+* *Syringodium isoetifolium*
+* *Thalassodendron pachyrhizum*
+* *Thalassodendron ciliatum*
+* *Zostera capensis* (Africa)
+* *Zostera chilensis* (Chile)
+* *Zostera muelleri* (*Z. capricorni*)
+* *Zostera nigrcaulis*
+* *Zostera polychlamys*
+* *Zostera tasmanica*
 
  
 
