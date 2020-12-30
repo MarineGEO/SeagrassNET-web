@@ -46,7 +46,7 @@ Biomass data sheet
 
 # Submit Your Data
 [Instructions for data entry](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/submit/SeagrassNet Data Entry Instructions.pdf)  
-[Instructions for Saving a data file](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/submit/Instructions for saving data files.pdf)  
+[Instructions for saving data file](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/submit/Instructions for saving data files.pdf)  
 
 # Upload and Retrieve Data  
 [Login for data information](http://www.seagrassnet.org/data-test/)
