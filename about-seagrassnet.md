@@ -34,11 +34,11 @@ Humans, through commercial and subsistence fishing, and endangered fauna worldwi
 
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Overview09_2p_img_5.jpg)
 
---------------------------------------------------------------------------------
+~~                                                                            ~~
 Project publications:  
 *Global Seagrass Research Methods* F.T. Short and R.G. Coles (eds.) 2001 Elsevier  
-*World Atlas of Seagrasses* E.P. Green and F.T. Short (eds.) 2003 Univ. of California Press.  
----------------------------------------------------------------------------------------------
+*World Atlas of Seagrasses* E.P. Green and F.T. Short (eds.) 2003 Univ. of California Press.
+~~                                                                            ~~
 
 Download the SeagrassNet Manual [here](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Worldwide Manual 2015.pdf)  
 Download the SeagrassNet Manual in Spanish 
