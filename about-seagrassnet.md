@@ -16,8 +16,9 @@ SeagrassNet is collecting information with the goal of elevating awareness of se
 
    Seagrasses are underwater flowering plants that often occur in vast meadows and provide nurseries, shelter, and food for a variety of commercially, recreationally, and ecologically important species (e.g., fish, sea turtles, dugong, manatee, seahorses, crustaceans). Additionally, seagrasses filter estuarine and coastal waters of nutrients, contaminants, and sediments and are closely linked to other community types: in the tropics to coral reefs and mangrove forests, and in temperate waters to salt marshes, kelp forests, and oyster reefs. Existing at the interface of the land margin and the world's oceans, seagrasses are threatened by numerous anthropogenic impacts as well as global climate change.
 
-Funding for various aspects of SeagrassNet provided by The David and Lucile Packard Foundation, the Oak Foundation, the New Hampshire Charitable Foundation and Tom Haas, and the University of New Hampshire.  
---------------------------------------------------------------------------------s
+Funding for various aspects of SeagrassNet provided by The David and Lucile Packard Foundation, the Oak Foundation, the New Hampshire Charitable Foundation and Tom Haas, and the University of New Hampshire.
+
+--------------------------------------------------------------------------------
 Project Director: Dr. Frederick T. Short, University of New Hampshire, Jackson Estuarine Laboratory, 85 Adams Point Road, Durham, NH 03824 USA, <fred.short@unh.edu>, 603-862-5134. Co-Principal Investigators: Drs. Rob Coles (Australia), Miguel Fortes (Philippines), and Evamaria Koch (USA).  
     
 # SeagrassNet
