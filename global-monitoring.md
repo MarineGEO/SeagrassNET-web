@@ -10,7 +10,7 @@ permalink: /global-monitoring/
 # SeagrassNet Monitoring Manuals
 
 [Worldwide Edition in English](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Worldwide Manual 2015.pdf)  
-[Worldwide Edition in Spanish](https://marinegeo.github.io/seagrassnet-web/assets/about/Spanish_SeagrassNet_Manual_2006_Worldwide.pdf)  
+[Worldwide Edition in Spanish](https://marinegeo.github.io/seagrassnet-web/assets/about/Spanish_ SeagrassNet_Manual_2006_Worldwide.pdf) 
 ###### *Eelgrass in New Hampshire U.S.A.*{: style="float:right; padding-left:10px" }  
 # Regional Supplements to the Monitoring Manuals
 [Tropical Indo-Pacific Supplement](https://marinegeo.github.io/seagrassnet-web/assets/global-monitoring/supplements/West_Indian_Ocean_SeagrassNet_Supplements.pdf)  

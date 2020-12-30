@@ -45,7 +45,7 @@ Project publications:
 
 Download the SeagrassNet Manual [here](https://marinegeo.github.io/seagrassnet-web/assets/about/SeagrassNet Worldwide Manual 2015.pdf)  
 Download the SeagrassNet Manual in Spanish 
-[here](https://marinegeo.github.io/seagrassnet-web/assets/about/Spanish_SeagrassNet_Manual_2006_Worldwide.pdf)
+[here](https://marinegeo.github.io/seagrassnet-web/assets/about/Spanish_ SeagrassNet_Manual_2006_Worldwide.pdf)
 
 
 
