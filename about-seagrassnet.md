@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/about/main.photo.jpg)
 
