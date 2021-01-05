@@ -4,7 +4,7 @@ title: Participants
 permalink: /participants/
 ---
 
-Bioregion | Location | Transect Number | Latitude, Longitude
+**Bioregion** | **Location** | **Transect Number** | **Latitude, Longitude**
 Temperate North Atlantic | Odense, Denmark | DD68.1 | (55.50, 10.30)
  | Helford Estuary, England | EH57.1 | (40.44, -124.14)
  | Ria Formosa (Impacted), Faro, Portugal | PF56.2 | (37.10, -7.57)
