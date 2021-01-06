@@ -25,7 +25,7 @@ Temperate North Atlantic | Canada | Pruth Bay, Calvert Island, British Columbia 
  | | Fire Island, Long Island, New York | NY41.1 | (41.10, -70.53)
  | | Fort Getty, Narragansett Bay, Rhode Island | RN31.1 | (41.49, -71.40)
  | | Prudence Island, Narragansett Bay, Rhode Island | RN31.2 | (41.58, -71.32)
-Tropical Atlantic Species | Antigua and Barbuda | Cades Bay | AB59.1 | (17.99, -61.73)
+Tropical Atlantic | Antigua and Barbuda | Cades Bay | AB59.1 | (17.99, -61.73)
  | Artigua and Barbuda | North Barbuda | AB59.2 | (17.02, -61.86)
  | Belize | Bacalar Chico Marine Reserve No-Take Zone, Ambergris | BB65.1 | (18.17, -87.84)
  | | Bacalar Chico Marine Reserve Public Use Zone, Ambergris | BB65.2 | (18.17, -87.84)
