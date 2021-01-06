@@ -56,14 +56,27 @@ Tropical Atlantic Species | Antigua and Barbuda | Cades Bay | AB59.1 | (17.99, -
  | | Mangle Island, San Bernardo National Park, Cartagena | CR26.2 | (9.46, -75.47)
  | | Rosario Island, Rosario National Park, Cartagena | CR62.1 |(10.95, -75.71)
  | | Neguanje Bay, Tayrona National Park | CN46.1 | (11.19, -74.46)
- | Mexico | Yucatan/Puerto Morelos Reef National Park | MM70.1 | (20.88, -86.86)
+ | Mexico | San Quintin Bay, Baja | MB24.1 | (30.43, -115.98)
+ | | Yucatan/Puerto Morelos Reef National Park | MM70.1 | (20.88, -86.86)
  | | Los Cayos, Terminos Lagoon, Yucatan | MC55.2 | (18.44, -91,30)
  | | Sukul, Campeche, Yucatan | MC55.1 | (19.56, -90.28)
  | Puerto Rico | Cerro Gordo (Pristine) | PR40.2 | (18.17, -65.15)
  | | Las Croabas (Polluted) | PR40.1 | (18.21, -65.37)
  | USA | Johnson Launch, Big Lagoon, Perdio Key, Alabama | AL36.2 | (30.18,  -87.22)
  | | Langley Point, Big Lagoon, Perdido Key, Alabama | AL36.1 | (30.18, -87.22)
- 
+Mediterranean | Croatia | Novigradsko More, Zadar | CZ61.1 | (44.13, 15.29)
+ | France | Gulf of Calvi, Corsica | FC33.1 |(42.58, 8.73)
+Temperate North Pacific | South Korea | Koje Bay | KO51.1 | (34.48, 128.35)
+ | USA | North Bay, Humboldt Bay, California | CH42.2 | (40.49, -124.07)
+ | | South Bay, Humboldt Bay, California | CH42.1 | (40.44, -124.15)
+ | | Valino Island. South Slough, Oregon | OR25.1 | (41.49, -71.40)
+ | | Dumas Bay, Puget Sound, Washington | WA50.1 | (47.19, -122.23)
+ | | Birch Bay, Puget Sound, Washington | WA50.5 | (48.90, -122.78)
+ | | Neil Point, Maury Island, Puget Sound, Washington | WA50.6 | (47.34, -122.46)
+ | | Sandy Point, Puget Sound, Washington | WA50.2 | (47.15, -122.68)
+ | | Strawberry Bay, Puget Sound, Washington | WA50.4 | (48.57, -122.72)
+ | | Thompson Spit, Puget Sound, Washington | WA50.3 | (48.10, -122.94)
+
  
  
  
