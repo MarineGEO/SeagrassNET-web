@@ -92,7 +92,7 @@ Tropical Indo-Pacific | Australia | Green Island, Queensland | GL8.1 | (-16.76, 
  | | Riung, Flores | IR17.1 | (-8.27, 121.02)
  | | Kepuh Island, Banten Bay, Java | IJ54.2 | (5.60, 106.92)
  | | Lima Island, Banten Bay, Java | IJ 54.1 | (5.58, 106.67)
- | Seraya Kecil, Komodo | IK16.1 | (-8.41, 119.87)
+ | | Seraya Kecil, Komodo | IK16.1 | (-8.41, 119.87)
  | | Blongko, North Sulawesi | IM11.1 | (1.14, 124.35)
  | Israel | Marine Lab, Eilat | IE37.1 | (29.30, 34.55)
  | | North Beach, Eilat | IE37.2 | (29.33, 34.55)
