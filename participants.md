@@ -120,7 +120,7 @@ Tropical Indo-Pacific | Australia | Green Island, Queensland | GL8.1 | (-16.76, 
  | | Sabang, Mindoro | PH4.2 | (13.52, 120.98)
  | Tanzania | Chumbe, Zanzibar | TZ19.2 | (-6.28, 39.44)
  | | Chwaka, Zanzibar | TZ19.1 | (-6.14, 39.44)
- | Thailand | Phetra PTo1, Lidee Lek Island, Mo Ko Phetra National Park, Satun Province | TS48.1 | (6.37, 99.46)
+ | Thailand | Phetra PT01, Lidee Lek Island, Mo Ko Phetra National Park, Satun Province | TS48.1 | (6.37, 99.46)
  | | Phetra PT02, Lidee Yai Island, Mo Ko National Park, Satun Province | TS48.2 | (6.47, 99.47)
  | | Phetra PT03, Liddee Yai Island, Mo Ko National Park, Satun Province | TS48.3 | (6.56, 99.46)
  | | Taruato TT02, Talowaw Bay, Tarutao Island National Park, Satun Province | TS48.5 | (6.36, 99.41)
