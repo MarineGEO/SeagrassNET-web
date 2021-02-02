@@ -89,7 +89,7 @@ Tropical Indo-Pacific | Australia | Green Island, Queensland | GL8.1 | (-16.76, 
  | Fiji | Nukubuco Reef, Suva | FJ7.1 | (-18.18, 178.47)
  | India | Andaman | AI20.1 | (11.37, 92.45)
  | Indonesia | Sanur Beach, Bali | IB18.1 | (-8.36, 121.02)
- | | Ruing, Flores, IR17.1 | (-8.27, 121.02)
+ | | Riung, Flores | IR17.1 | (-8.27, 121.02)
  | | Kepuh Island, Banten Bay, Java | IJ54.2 | (5.60, 106.92)
  | | Lima Island, Banten Bay, Java | IJ 54.1 | (5.58, 106.67)
  | Seraya Kecil, Komodo | IK16.1 | (-8.41, 119.87)
