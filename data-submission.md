@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Data Submission
 permalink: /data-submission/
 ---
 
