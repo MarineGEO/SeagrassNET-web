@@ -5,7 +5,9 @@ layout: default
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/Logomark_MarineGEO_RGB_resized.png){: style="float:right; padding-left:20px" }
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/SI_logo_resized.png){: style="float:right; padding-left:20px" }
   
-  
+<br/>
+<br/>
+
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/index/Home page photo.jpg)
 
 # We are the Global Seagrass Monitoring Network
