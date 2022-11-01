@@ -3,8 +3,8 @@
 
   <div class="wrapper">
 
-    <div class="footer-col-wrapper" style="width:100%">
-      <div class="footer-col" style="width: 50%; float: left;">
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
         <!--<p class="feed-subscribe">
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
@@ -13,8 +13,7 @@
           </a>
         </p> -->
 		  <ul style="list-style-type:none">
-			<li><a href="https://www.si.edu"><img src="assets/SI_logo_footer.png" alt="Smithsonian logo"></a><br/></li>
-			<li><a href="https://www.marinegeo.si.edu"><img src="assets/marinegeo_icon_footer.png" alt="MarineGEO logo"></a><br/></li>
+			<li><a href="https://www.si.edu"><img src="assets/SI_logo_footer.png" alt="Smithsonian logo"></a> <a href="https://www.marinegeo.si.edu"><img src="assets/marinegeo_icon_footer.png" alt="MarineGEO logo"></a></li>
 			<li><a href="https://www.si.edu/Privacy">Privacy Policy</a></li>
 		  </ul>
 <!--
@@ -28,15 +27,15 @@
           {%- endif %}
         </ul>
       {%- endif %} -->
-      </div>
-      <div class="footer-col" style="margin-left: 50%;">
+     </div>
+      <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
-    <!--<div class="social-links">
+    <div class="social-links">
       {%- include social.html -%}
-    </div> -->
+    </div>
 
   </div>
 
