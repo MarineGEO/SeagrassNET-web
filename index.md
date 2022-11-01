@@ -2,8 +2,8 @@
 layout: default
 ---	
 
-![image](https://marinegeo.github.io/seagrassnet-web/assets/si_logo-primary_resized.png)
-![image](https://marinegeo.github.io/seagrassnet-web/assets/Logomark_MarineGEO_RGB_resized.png))
+![image](https://marinegeo.github.io/seagrassnet-web/assets/si_logo-primary_resized.png){: style="float:right; padding-left:10px" }
+![image](https://marinegeo.github.io/seagrassnet-web/assets/Logomark_MarineGEO_RGB_resized.png){: style="float:right; padding-left:10px" }
 
 ![image](https://marinegeo.github.io/seagrassnet-web/assets/index/Home page photo.jpg)
 
